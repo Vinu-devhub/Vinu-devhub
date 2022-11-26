@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vinu-devhub.github.io/MyPortfolio/](https://vinu-devhub.github.io/MyPortfolio/)
 
-- 📫 How to reach me **vinaybhamre@zohomail.in**
+- 📫 How to reach me **vinay_bhamre@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
