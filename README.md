@@ -29,7 +29,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)
 
----------------------------------------->
+<!---------------------------------------->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinu-devhub&show_icons=true&locale=en&layout=compact" alt="vinu-devhub" /></p>
 
