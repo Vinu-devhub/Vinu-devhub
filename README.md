@@ -1,5 +1,5 @@
 
-![banner-gif](https://github.com/vinaybhamre/vinaybhamre/assets/55195849/95fdd837-a619-4f8f-b547-b14abb35b422)
+![standard_banner-gif](https://github.com/vinaybhamre/vinaybhamre/assets/55195849/bdea3545-e8e7-48cb-9e45-54c2ae759d24)
 
 
 <h1 align="center">Hi 👋, I'm Vinay Bhamre</h1>
