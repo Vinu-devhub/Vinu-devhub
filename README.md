@@ -1,4 +1,4 @@
-[![MasterHead](https://gifyu.com/image/SiF8N)](https://vinaybhamre.github.io/)
+[![MasterHead]([https://gifyu.com/image/SiF8N](https://s5.gifyu.com/images/SiF8N.gif))](https://vinaybhamre.github.io/)
 
 <h1 align="center">Hi 👋, I'm Vinay Bhamre</h1>
 <h3 align="center">A passionate frontend engineer trying to build beautiful things one step at a time.</h3>
