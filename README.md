@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://vinaybhamre.github.io/)
+[![MasterHead](https://gifyu.com/image/SiF8N)](https://vinaybhamre.github.io/)
 
 <h1 align="center">Hi 👋, I'm Vinay Bhamre</h1>
 <h3 align="center">A passionate frontend engineer trying to build beautiful things one step at a time.</h3>
