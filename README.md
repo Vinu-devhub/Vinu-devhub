@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vinay Bhamre</h1>
 <h3 align="center">A passionate frontend developer trying to build beautiful things one step at a time.</h3>
 
-- 🌱 I’m currently learning **React Ecosystem**
+- 🚀 I am excited to learn new tools and technologies to solve complex problems
 
-- 👨‍💻 All of my projects are available at [https://vinu-devhub.github.io/MyPortfolio/](https://vinu-devhub.github.io/MyPortfolio/)
+- 🌱 I’m currently learning **Next.js**
+
+- 👨‍💻 All of my projects are available at [[https://vinu-devhub.github.io/MyPortfolio/](https://vinaybhamre.github.io/)]
 
 - 📫 How to reach me **vinay_bhamre@proton.me**
 
@@ -31,7 +33,7 @@
 
 <!---------------------------------------->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinu-devhub&show_icons=true&locale=en&layout=compact" alt="vinu-devhub" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinaybhamre&show_icons=true&locale=en&layout=compact" alt="vinaybhamre" /></p>
 
 
 
